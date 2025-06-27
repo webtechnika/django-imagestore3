@@ -1,3 +1,6 @@
+3.2.1
+Don't regenerate migrations on Django AutoFields.
+
 3.2.0
 Imagestore is now compatible with Django 3.0+
 
